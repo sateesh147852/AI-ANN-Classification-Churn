@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.wtire("Hello world")
+st.write("Hello world")
 
 
 
